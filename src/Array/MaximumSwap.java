@@ -47,3 +47,9 @@ public class MaximumSwap {
         return strNum.toString();
     }
 }
+
+//Other Solution:
+//1. Ignore all digits until decreasing, until (next digit > prev). store the min and minindex
+//2. Starting from minindex find the largest digit in the remaining digits.
+//3. Iterate through the array till minIndex to find any digit that might be lesser than max
+//4. Swap the maxIndex digit with swapIndex
