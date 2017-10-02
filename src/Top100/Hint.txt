@@ -1,0 +1,8 @@
+For String problems, you have several ways to solve the question:
+1. REVERSE the string and compare it to the origin one
+2. DYNAMIC PROGRAMMING
+3. Expand around the center
+4. use HASHTABLE/ mark directly on the array
+5. Sliding Window
+6. Purely Math
+7.
