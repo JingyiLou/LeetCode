@@ -3,6 +3,6 @@ For String problems, you have several ways to solve the question:
 2. DYNAMIC PROGRAMMING
 3. Expand around the center
 4. use HASHTABLE/ mark directly on the array
-5. Sliding Window
+5. Sliding Window/ two pointers
 6. Purely Math
 7.
