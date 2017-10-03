@@ -6,3 +6,5 @@ For String problems, you have several ways to solve the question:
 5. Sliding Window/ two pointers
 6. Purely Math
 7.
+
+Use set to avoid dup
